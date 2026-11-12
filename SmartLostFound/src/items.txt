@@ -1,0 +1,7 @@
+FOUND|One Plus airpods v11|Electronics|AB1 102|2026-10-29|Found
+LOST|apple pencil|Electronics|ab2 277|2026-10-29|Lost
+FOUND|iphone 18 pro max|Electronics|LHC 220|2026-10-29|Found
+FOUND|umbrella blue|Other|administrative block|2026-10-29|Found
+LOST|car key fortuner|Keys|AWS LAB|2026-10-29|Lost
+LOST|apple pencil|Electronics|ab1 231|2026-10-29|Lost
+LOST|apple pencil|Electronics|ab2 277|2026-10-29|Lost

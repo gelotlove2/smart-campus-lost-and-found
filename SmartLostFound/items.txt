@@ -1,0 +1,4 @@
+LOST|Black Wallet|Accessories|Library|2026-10-25|Returned
+FOUND|Blue Umbrella|Accessories|Canteen|2026-10-26|Found
+LOST|Keys, Red \p Bunch|Keys|Hall \\ A|2026-10-27|Lost
+LOST|phone|Electronics|ab1|2026-10-28|Found
