@@ -1,0 +1,1 @@
+A Java-based desktop application developed using Java Swing to manage lost and found items on a college campus. It allows users to report lost or found items, search and filter records, update item status, and find possible matches using a rule-based matching system. The project demonstrates core OOP concepts, file handling, and GUI development in Java.
